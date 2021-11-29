@@ -17,7 +17,7 @@ let package = Package(
             dependencies: [],
             path: "CTNotificationContent",
             exclude: ["Info.plist"],
-            publicHeadersPath: "CTNotificationContent"
+            publicHeadersPath: "."
         )
     ]
 )
